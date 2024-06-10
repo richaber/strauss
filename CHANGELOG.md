@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.19.2 June 2024
+
+* Fix: available CLI arguments were overwriting extra.strauss config
+* Fix: updating `league/flysystem` changed the default directory permissions
+
 ## 0.19.1 April 2024
 
 * Fix: was incorrectly deleting autoload keys from installed.json
